@@ -1,0 +1,126 @@
+(ROOT
+  (S
+))              <<2S + (ADVP (RB
+|||
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN cat))
+      (VP (VBZ is)
+        (ADJP (JJ good))
+        (ADVP (RB moreover))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBG raining)))
+    (. .)))   					 <<2S + (ADVP (RB
+|||
+(ROOT
+  (S
+    (NP (DT The) (NN cat))
+    (VP (VBZ is)
+      (ADJP (JJ good))
+      (SBAR (IN while) (, ,)
+        (S
+          (NP (PRP it))
+          (VP (VBZ is)
+            (VP (VBG raining))))))
+    (. .)))					<< 2S + (SBAR + (IN
+|||
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN cat))
+      (VP (VBZ is)
+        (ADJP (JJ good))
+        (ADVP (RB meanwhile))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBG raining)))
+    (. .)))					<<2S + (ADVP (RB
+|||
+(ROOT
+  (S
+    (NP (NNP Mary))
+    (VP (VBD went)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN market))
+          (CC and)
+          (NP (NNP John))))
+      (PP (TO to))
+        (NP (DT the) (NN garden))))
+    (. .)))					<<1S + (CC then (PP (TO/(IN
+|||
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN cat))
+      (VP (VBZ is)
+        (ADJP (JJ good))))
+    (CC and)
+    (S
+      (NP (DT the) (NN dog))
+      (VP (VBZ is)
+        (ADJP (JJ bad))))
+    (. .)))					<<2s + (CC
+|||
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN cat))
+      (VP (VBZ is)
+        (ADJP (JJ bad))))
+    (, ,) (IN so)
+    (S
+      (NP (DT the) (NN dog))
+      (VP (VBZ is)
+        (VP (VBG barking))))
+    (. .)))					<<2S + (IN
+|||
+(ROOT
+  (S
+    (NP (DT The) (NN cat))
+    (VP (VBZ is)
+      (ADJP (JJ bad)))
+    (. .)))
+(ROOT
+  (S (IN So)
+    (NP (DT the) (NN dog))
+    (VP (VBZ is)
+      (VP (VBG barking)))
+    (. .)))					<<1+1S + (S (IN
+|||
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD was)
+      (NP (JJ considerable) (NN flooding)))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (NN result)))
+    (, ,)
+    (NP (NNS farmers))
+    (VP (VBD went)
+      (ADJP (JJ bankrupt)))
+    (. .)))					<<1+1S + (S (PP (IN
+|||	
+(ROOT
+  (S
+    (NP (NNP Harry))
+    (VP (MD will) (RB not)
+      (VP (VB go)))
+    (. .)))
+(ROOT
+  (S
+    (SBAR (IN Unless)
+      (S
+        (NP (PRP he))
+        (VP (VBZ is))))
+    (VP (VBD paid)
+      (NP (DT an) (NN appearance) (NN fee)))
+    (. .)))					<<1+1S + (S (SBAR (IN
+|||
